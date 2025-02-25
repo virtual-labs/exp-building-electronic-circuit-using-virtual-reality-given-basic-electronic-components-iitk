@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Virtual Reality
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Reality Lab
+<b> Experiment|     <b> Building Electronic Circuit Using Virtual Reality, Given Basic Electronic Components
 
 ### About the Experiment 
 
