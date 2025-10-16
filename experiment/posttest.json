@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What are the 3 types of Virtual Reality?",
+      "question": "1. What are the 3 types of Virtual Reality?",
       "answers": {
         "a": "3D, non-immersive, digital",
         "b": "Immersive, 3D, non-immersive",
@@ -10,16 +10,16 @@
         "d": "Immersive, semi-immersive, non-immersive"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "VR is categorized by level of immersion: immersive, semi-immersive, and non immersive. "
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "What Are the Challenges of Virtual Reality?",
+      "question": "2. What Are the Challenges of Virtual Reality?",
       "answers": {
         "a": "Users of virtual reality have complained of experiencing eyestrain.",
         "b": "It is not popular",
@@ -27,10 +27,10 @@
         "d": "It causes pollution"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": " Common VR challenges include eyestrain, motion sickness, and high cost, not popularity or pollution.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "",
       "difficulty": "beginner"
@@ -39,13 +39,15 @@
       "question": "Immersive VR is the most expensive form of VR?",
       "answers": {
         "a": "TRUE",
-        "b": "FALSE"
+        "b": "FALSE",
+        "c": "Only in gaming applications",
+        "d": "Only for mobile devices "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Immersive VR requires advanced hardware like headsets, sensors, and motion trackers, making it the most costly form.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -59,10 +61,10 @@
         "d": "Helps in agriculture"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "VR enhances learning, training, and interactive experiences by simulating realistic environments.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
