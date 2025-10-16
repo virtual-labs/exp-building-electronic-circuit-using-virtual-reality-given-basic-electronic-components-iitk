@@ -27,7 +27,7 @@
         "d": "It causes pollution"
       },
       "explanations": {
-        "a": " Common VR challenges include eyestrain, motion sickness, and high cost, not popularity or pollution.",
+        "a": "Common VR challenges include eyestrain, motion sickness, and high cost, not popularity or pollution.",
         "b": "Explanation",
         "c": "Explanation",
         "d": "Explanation"
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Immersive VR is the most expensive form of VR?",
+      "question": "3. Immersive VR is the most expensive form of VR?",
       "answers": {
         "a": "TRUE",
         "b": "FALSE",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What are the Advantages of Virtual Reality?",
+      "question": "4. What are the Advantages of Virtual Reality?",
       "answers": {
         "a": "Virtual reality (VR) improves the user experience",
         "b": "Makes ageing faster",
