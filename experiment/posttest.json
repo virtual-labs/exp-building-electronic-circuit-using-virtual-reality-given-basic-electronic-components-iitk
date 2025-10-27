@@ -68,6 +68,23 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "5. How can Virtual Reality help in building electronic circuits? ",
+      "answers": {
+        "a": "By allowing users to physically solder components ",
+        "b": "By simulating circuit connections and testing them virtually ",
+        "c": "By automatically manufacturing the circuit board ",
+        "d": "By replacing all physical components "
+      },
+      "explanations": {
+        "a":" ",
+        "b":"VR allows learners and engineers to build and test electronic circuits in a simulated 3D environment, helping them understand connections and functionality safely before real-world implementation. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
