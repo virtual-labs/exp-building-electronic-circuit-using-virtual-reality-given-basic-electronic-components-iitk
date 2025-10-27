@@ -1,14 +1,11 @@
-<b>Lab launching procedure : </b><br>
+<b>Note: </b> This is a VR-based experiment; in the simulation; you can learn from scratch how to download the APK and use VR, while the Procedure section explains the actual lab experiment steps as performed in the Virtual Reality (VR) Lab. <br><br>
 
-•	Download the experiment from the mentioned link.<br>
-•	Install the APK file in your OCULUS device.<br>
-•	Run the APP from the device application menu.<br>
 
-Happy Learning <br><br>
-
-<b>Working of an experiment :</b> <br>
-•	You may "walk" through the area and use VR at room scale. You won't trip over a real wall because your virtual world has grid lines.<br>
-•	The user can also choose from a variety of components in the lab to observe, which will aid in their understanding of how to use consoles with VR headsets.<br>
-•	Every object will have clear labels and tooltips so that the user can understand how to pick and throw it.<br>
-•	The user will learn about every term through the slides and video, along with instructions on how to use VR headsets and controllers.<br>
-•	The user can explore and witness the beauty of nature in virtual reality (VR) when the video and slide conclude. This will help the user understand how VR can be used for living in a world that does not exist.
+| **Step** | **Actual Lab Procedure (Physical Wiring)** | **Virtual Reality (VR) Lab Procedure (Simulation)** |
+|-----------|---------------------------------------------|----------------------------------------------------|
+| **1. Power Setup** | Connect the DC Power Supply to the trainer kit terminals (Vcc and GND) using physical wires. Ensure the polarity is correct to avoid damaging the chip. | The virtual battery (power source) is grabbed and connected to the circuit rails (0:24, 0:44), which powers the entire virtual system. |
+| **2. Circuit Component Placement** | Insert the IC chip (e.g., the 7408 AND gate) carefully onto the breadboard or trainer kit. Connect physical wires from the power rails to the appropriate Vcc and GND pins on the chip. | The user grabs the virtual AND Gate and Indicator Light (bulb) and places them on the virtual table (0:26–0:32). Magnetic snapping ensures components connect logically. |
+| **3. Logic Input Wiring** | Connect the physical input switches (A and B) to the designated input pins of the logic gate IC using short, clean wires. | The user uses the controller to grab virtual wire connectors and link the power source, inputs (implicit switches/source blocks), and the AND Gate together (0:46–1:12). |
+| **4. Logic Output Wiring** | Connect the output pin of the IC to a physical current-limiting resistor and then to an LED indicator to display the output state. | The user connects the virtual AND Gate’s output to the Indicator Light (bulb) (1:13–1:17). |
+| **5. Verification (Truth Table)** | Manually flip the physical input switches (A=0, B=0, A=1, B=0, etc.) and observe the state of the output LED (ON/OFF) to fill out the Truth Table. | The user virtually toggles the inputs (implicit in the demonstration, causing the bulb to light up) and observes the virtual light bulb (ON = Logic 1, OFF = Logic 0) to verify the Truth Table (1:13–1:17). |
+| **6. Iteration (OR Gate)** | Remove the AND gate IC, insert the OR gate IC (e.g., 7432), and rewire the inputs and output, repeating the process while managing risk of incorrect wiring. | The user can instantly swap or build a parallel circuit with the OR Gate component (1:46–1:55), immediately testing its different logical behavior in the same setup. |
