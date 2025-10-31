@@ -13,19 +13,13 @@ Through an immersive setting, virtual reality (VR) is a technology tool that has
 :--|:--|
 <b> Institute | <b> PSIT 
 <b> Email id|     <b> aparna.dixit@psit.ac.in 
-<b> Department |  
+<b> Department |  Physics
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Aparna Dixit (Mentor) | . | . | . | .
-2 | Utkarsh Rai | . | . | . | .
-3 | Ishita Trivedi | . | . | . | .
-4 | Aditya Tripathi | . | . | . | .
-5 | Utkarsh Mishra | . | . | . | .
-6 | Anushka Bajpai | . | . | . | .
-7 | Alok Kumar Singh | . | . | . | .
-8 | Anshu Srivastava | . | . | . | .
-9 | Shubhanshu Trivedi | . | . | . | .
+1 | Dr. Aparna Dixit (Mentor) | Faculty | Physics | PSIT | aparna.dixit@psit.ac.in
+2 | Vivek Yadav  | Student | IT | PSIT | .
+3 | Kshama Mishra | Student | CS-AI | PSIT | .
 
