@@ -1,0 +1,142 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. How does viewing a rendered project in virtual reality differ from viewing a high-quality render on a desktop or laptop computer?",
+      "answers": {
+        "a": "It provides depth perception and a sense of scale, making you feel like you are inside the space",
+        "b": "It displays higher resolution images than any desktop monitor",
+        "c": "It automatically improves architectural designs",
+        "d": "It eliminates the need for client presentations"
+      },
+      "explanations": {
+        "a": " VR allows users to experience space, scale, and emotion in ways that flat screens cannot replicate. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Does virtual reality allow for space exploration?",
+      "answers": {
+        "a": "Yes, with tethered HMDs and sufficient computing power, you can navigate virtual spaces",
+        "b": "No, VR is limited to desktop viewing only",
+        "c": "Only through smartphones without HMDs ",
+        "d": "Yes, but only for outer space, not interior environments "
+      },
+      "explanations": {
+        "a": "VR can create immersive, navigable environments, though high-quality experiences require powerful systems.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What drawbacks does technology have?",
+      "answers": {
+        "a": "It replaces architects and designers entirely",
+        "b": "It is fully compatible with any PC or mobile device ",
+        "c": "High processing power is needed, and software is often in early development stages",
+        "d": "It eliminates the need for real-world measurements "
+
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "VR is still developing, and high-quality immersive experiences require advanced hardware and software.",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Augmented reality (AR) and virtual reality (VR) are the same?",
+      "answers": {
+        "a": "TRUE",
+        "b": "FALSE",
+        "c": "Only in gaming applications ",
+        "d": "Only in architectural design" 
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "AR overlays digital elements onto the real world, while VR immerses the user in a fully virtual environment. ",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. How will we interact with technology in the future?",
+      "answers": {
+        "a": "A Keyboard",
+        "b": "Voice",
+        "c": "Eyes",
+        "d": "Thoughts"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Future technology aims for brain–computer interfaces, enabling control of devices through thoughts instead of physical inputs. "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which logic gate gives HIGH output when at least one input is HIGH?",
+      "answers": {
+        "a": "AND Gate",
+        "b": "OR Gate",
+        "c": "NOT Gate",
+        "d": "NAND Gate"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "An OR gate outputs HIGH if any one or more inputs are HIGH",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. What is the output of an AND gate when both inputs are HIGH (1)?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "Undefined",
+        "d": "Depends upon the circuit"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "An AND gate produces HIGH output only when all its inputs are HIGH.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which logic gate is known as an inverter?",
+      "answers": {
+        "a": "AND Gate",
+        "b": "OR Gate",
+        "c": "XOR Gate",
+        "d": "NOT Gate"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "A NOT gate inverts the input signal, changing HIGH to LOW and LOW to HIGH."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
