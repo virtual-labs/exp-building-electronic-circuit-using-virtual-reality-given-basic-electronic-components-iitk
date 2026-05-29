@@ -86,6 +86,57 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which logic gate gives HIGH output when at least one input is HIGH?",
+      "answers": {
+        "a": "AND Gate",
+        "b": "OR Gate",
+        "c": "NOT Gate",
+        "d": "NAND Gate"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "An OR gate outputs HIGH if any one or more inputs are HIGH",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. What is the output of an AND gate when both inputs are HIGH (1)?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "Undefined",
+        "d": "Depends upon the circuit"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "An AND gate produces HIGH output only when all its inputs are HIGH.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which logic gate is known as an inverter?",
+      "answers": {
+        "a": "AND Gate",
+        "b": "OR Gate",
+        "c": "XOR Gate",
+        "d": "NOT Gate"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "A NOT gate inverts the input signal, changing HIGH to LOW and LOW to HIGH."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }
