@@ -123,7 +123,7 @@
     {
       "question": "8.What is the output of a NOT gate when the input is 1?",
       "answers": {
-        "a": "1
+        "a": "1",
         "b": "0",
         "c": "HIGH and LOW both",
         "d": "Undefined"
