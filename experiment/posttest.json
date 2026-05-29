@@ -85,6 +85,57 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6. Why are logic gates important in electronic circuit design?",
+      "answers": {
+        "a": "They control water flow in circuits",
+        "b": "They perform decision-making operations using binary inputs",
+        "c": "They generate electricity",
+        "d": "They replace microprocessors"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Logic gates are the fundamental building blocks of digital electronic circuits and process binary information.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which logic gate produces a LOW output only when all inputs are HIGH?",
+      "answers": {
+        "a": "OR Gate",
+        "b": "NAND Gate",
+        "c": "XOR Gate",
+        "d": "NOT Gate"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "A NAND gate is the inverse of an AND gate and gives LOW output only when all inputs are HIGH.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8.What is the output of a NOT gate when the input is 1?",
+      "answers": {
+        "a": "1
+        "b": "0",
+        "c": "HIGH and LOW both",
+        "d": "Undefined"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "A NOT gate inverts the input signal. If input is HIGH (1), output becomes LOW (0).",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
